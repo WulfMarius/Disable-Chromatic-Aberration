@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DisableChromaticAberration</RootNamespace>
-    <AssemblyName>DisableChromaticAberration</AssemblyName>
+    <AssemblyName>Disable-Chromatic-Aberration</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
