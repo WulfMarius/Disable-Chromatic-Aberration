@@ -1,0 +1,18 @@
+﻿{
+	"name": "Disable-Chromatic-Aberration",
+	"description": "Completely disables chromatic aberration for all quality modes. Works with existing games.",
+	"url": "https://github.com/WulfMarius/Disable-Chromatic-Aberration",
+	"releases": [
+		{
+			"version": "2.0.0",
+			"url": "https://github.com/WulfMarius/Disable-Chromatic-Aberration/releases/tag/2.0.0-main",
+			"changes": "updated to work with TLD V1.27",
+			"dependencies": [],
+			"assets": [
+				{
+					"url": "https://github.com/WulfMarius/Disable-Chromatic-Aberration/releases/download/2.0.0-main/Disable-Chromatic-Aberration-V2.0.0.zip"
+				}
+			]
+		}
+	]
+}
